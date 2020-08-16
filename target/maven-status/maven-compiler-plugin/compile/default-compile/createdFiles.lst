@@ -1,0 +1,16 @@
+com\tcs\assignment\MasterDiagnostic.class
+com\tcs\assignment\PatientRepo.class
+com\tcs\assignment\MasterDaignosticRepo.class
+com\tcs\assignment\PatientService.class
+com\tcs\assignment\HospitalManagementController.class
+com\tcs\assignment\login.class
+com\tcs\assignment\MedicineRepo.class
+com\tcs\assignment\DiagnosticRepo.class
+com\tcs\assignment\MastermedRepo.class
+com\tcs\assignment\PatientMedicine.class
+com\tcs\assignment\PatientDaignostic.class
+com\tcs\assignment\loginRepo.class
+com\tcs\assignment\HospitalManagementApplication.class
+com\tcs\assignment\Patient.class
+com\tcs\assignment\Medicinerepojpa.class
+com\tcs\assignment\MedicineMaster.class

@@ -1,0 +1,11 @@
+applications:
+- name: HospitalManagement
+  memory: 1024M
+  instances: 1
+  random-route: true
+  timeout: 180
+  path: ./target/HospitalManagement-0.0.1-SNAPSHOT.war
+
+  env:
+    JAVA_OPTS: -Djava.security.egd=file:///dev/urando
+    SPRING_PROFILES_ACTIVE: cloud
